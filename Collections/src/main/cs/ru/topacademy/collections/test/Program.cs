@@ -1,10 +1,10 @@
-﻿using collections.custome;
-using collections.operations.createlist;
-using collections.operations.createlist.merge;
-using collections.operations.info;
-using collections.operations.remove;
+﻿using collections.src.main.cs.ru.topacademy.collections.custome;
+using collections.src.main.cs.ru.topacademy.collections.operations.createlist;
+using collections.src.main.cs.ru.topacademy.collections.operations.createlist.merge;
+using collections.src.main.cs.ru.topacademy.collections.operations.info;
+using collections.src.main.cs.ru.topacademy.collections.operations.remove;
 
-namespace collections
+namespace collections.src.main.cs.ru.topacademy.collections.test
 {
     class Program
     {

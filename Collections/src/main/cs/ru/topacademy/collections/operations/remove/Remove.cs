@@ -1,4 +1,4 @@
-﻿namespace collections.operations.remove
+﻿namespace collections.src.main.cs.ru.topacademy.collections.operations.remove
 {
     public class Remove
     {

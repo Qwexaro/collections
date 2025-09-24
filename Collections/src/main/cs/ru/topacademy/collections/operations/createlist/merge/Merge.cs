@@ -1,4 +1,4 @@
-﻿namespace collections.operations.createlist.merge
+﻿namespace collections.src.main.cs.ru.topacademy.collections.operations.createlist.merge
 {
     public class Merge
     {

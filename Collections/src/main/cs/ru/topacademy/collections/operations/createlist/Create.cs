@@ -1,4 +1,4 @@
-﻿namespace collections.operations.createlist
+﻿namespace collections.src.main.cs.ru.topacademy.collections.operations.createlist
 {
     public class Create
     {

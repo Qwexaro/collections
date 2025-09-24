@@ -1,4 +1,4 @@
-﻿namespace collections.custome
+﻿namespace collections.src.main.cs.ru.topacademy.collections.custome
 {
     public class Print
     {

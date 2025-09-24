@@ -1,4 +1,4 @@
-﻿namespace collections.operations.info
+﻿namespace collections.src.main.cs.ru.topacademy.collections.operations.info
 {
     public class Sum
     {
